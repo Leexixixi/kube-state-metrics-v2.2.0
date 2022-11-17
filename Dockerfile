@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics-arm64:v2.3.0
+FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics-arm64:v2.2.0/2021-08-24
